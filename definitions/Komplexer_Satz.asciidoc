@@ -1,0 +1,25 @@
+* <hr size="1"><p> <<Satz>>.</p><hr size="1">
+
+== Satz
+* <<Rohsatz>>
+	`/^, //`
+	`/ +/ /`
+	`/ ,/,/`
+	`/,,/,/`
+	`/,\././`
+	`/^\s*/ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜ/`
+	`/^[ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜ]*([ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜ])[ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜ]*(?i)\1/$1/`
+
+== Rohsatz
+
+* link:jemand#jemand[jemand] link:tun#tut-_-etwas[tut _ etwas] <-link:irgendwegen#irgendwegen[irgendwegen^?^] <-link:irgendwann#irgendwann[irgendwann^?^] <-link:irgendwie#irgendwie[irgendwie^?^]
+* link:irgendwegen#irgendwegen[irgendwegen] link:tun#tut-_-etwas[tut _ etwas] <-link:jemand#jemand[jemand] <-link:irgendwann#irgendwann[irgendwann^?^] <-link:irgendwie#irgendwie[irgendwie^?^]
+* link:jemand#jemand[jemand] link:tun#tut[tut] link:irgendwann#irgendwann[irgendwann^?^] link:irgendwie#irgendwie[irgendwie^?^] link:irgendwegen#irgendwegen[irgendwegen^?^] link:tun#etwas-_-tun[etwas _ tun]
+* link:irgendwegen#irgendwegen[irgendwegen] link:tun#tut[tut] link:jemand#jemand[jemand] link:irgendwie#irgendwie[irgendwie^?^] link:tun#etwas-_-tun[etwas _ tun]
+* link:irgendwann#irgendwann[irgendwann] link:tun#tut[tut] link:jemand#jemand[jemand] link:irgendwie#irgendwie[irgendwie^?^] link:irgendwegen#irgendwegen[irgendwegen^?^] link:tun#etwas-_-tun[etwas _ tun]
+* link:irgendwo#irgendwo[irgendwo] link:tun#tut[tut] link:jemand#jemand[jemand] link:irgendwie#irgendwie[irgendwie^?^]  link:irgendwegen#irgendwegen[irgendwegen^?^] link:tun#etwas-_-tun[etwas _ tun]
+* link:irgendwie#irgendwie[irgendwie] link:tun#tut[tut] link:jemand#jemand[jemand] link:irgendwegen#irgendwegen[irgendwegen^?^] link:irgendwo#irgendwo[irgendwo^?^] link:tun#etwas-_-tun[etwas _ tun]
+
+== nicht
+
+* nicht

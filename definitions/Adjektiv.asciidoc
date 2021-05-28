@@ -1,0 +1,138 @@
+== Adjektiv
+
+_schwach männlich, weiblich, sächlich Nominativ_
+
+* <<beschriebene>>
+
+_schwach männlich, weiblich, sächlich Dativ_
+
+* <<beschriebenen>>
+
+_schwach männlich Akkusativ_
+
+* <<beschriebenen>>
+
+_schwach weiblich, sächlich Akkusativ_
+
+* <<beschriebene>>
+
+_stark männlich Nominativ_
+
+* <<beschriebener>>
+
+_stark weiblich Nominativ_
+
+* <<beschriebene>>
+
+_stark sächlich Nominativ_
+
+* <<beschriebenes>>
+
+_stark männlich Dativ_
+
+* <<beschriebenen>>
+
+_stark weiblich Dativ_
+
+* <<beschriebenen>>
+
+_stark sächlich Dativ_
+
+* <<beschriebenen>>
+
+_stark männlich Akkusativ_
+
+* <<beschriebenen>>
+
+_stark weiblich Akkusativ_
+
+* <<beschriebene>>
+
+_stark sächlich Akkusativ_
+
+* <<beschriebenes>>
+
+== beschrieben
+
+_Adjektiv_
+
+* blond
+* blond gelockt
+* dick
+* dumm
+* dünn
+* dürr
+* faul
+* fett
+* gelenkig
+* gut gebaut
+* hässlich
+* häuslich
+* in finanzielle Not geraten
+* in Latex gekleidet
+* jung
+* klein
+* klug
+* korrupt
+* krank
+* neu
+* reich
+* rothaarig
+* schlank
+* stark
+* stinkend
+* vertrauenswürdig
+
+_Adjektiv, Adverb_
+
+* ahnungslos
+* angepisst
+* beschäftigt
+* bescheiden
+* besoffen
+* blind
+* brutal
+* durchtrainiert
+* durchtrieben
+* einarmig
+* eiskalt
+* endlos
+* fassungslos
+* freundlich
+* ganz langsam
+* geschickt
+* gierig
+* heimlich
+* hemmungslos
+* höflich
+* hungrig
+* kaltblütig
+* langsam
+* nett
+* schamlos
+* schnell
+* schön
+* schuldbewusst
+* schwitzend
+* sportlich
+* ungeschickt
+* ungeschminkt
+
+== beschriebene
+
+* <<beschrieben>>e
+* beste
+
+== beschriebener
+
+* <<beschriebene>>r
+
+== beschriebenes
+
+* <<beschriebene>>s
+
+== beschriebenen
+
+* <<beschriebene>>n
+
+

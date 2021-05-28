@@ -1,0 +1,15 @@
+* in Berlin
+* in der Schule
+* in der Kirche
+* im Coop
+* auf dem Bahnhofsplatz
+* hinter dem Baum
+* im Bett
+* zuhause
+* an Ort und Stelle
+* im Auto
+
+== Todo
+* auf {Artikel männlich Dativ} Parkplatz
+* vor {Artikel männlich Dativ} Fernseher
+* vor {jemandem}

@@ -1,0 +1,18 @@
+Hier findest du Affirmationen.
+Lob und Tadel.
+
+* <<Einleitung>>
+
+== Einleitung
+
+=== positive Rückmeldung
+
+Du hast alles ganz toll gemacht.
+
+Zweiter Abschnitt mit
+Zeilenumbruch.
+
+=== negative Rückmeldung
+
+Das war alles Scheisse von dir.
+Vorallem dein bla.

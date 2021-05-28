@@ -1,0 +1,17 @@
+* heute
+* jeden Morgen
+* morgen
+* ab und zu
+* heute Abend
+* von Zeit zu Zeit
+* jeden Abend
+* samstags
+* jedes Jahr
+* jeden Tag
+* einmal im Jahr
+* einmal am Tag
+* niemals
+* nie im Leben
+
+== todo
+* , wenn {irgendwo?} {jemand} {etwas tut},

@@ -1,0 +1,60 @@
+== Person
+
+_regulär Nominativ_
+
+* Berliner
+* Bürgermeister
+* Demonstrant
+* Fahrer
+* Feuerwehrmann
+* Freund
+* Hamburger
+* Kaufmann
+* Kollege
+* Lehrer
+* Pfleger
+* Polizist
+* Präsident
+* Putzmann
+* Rentner
+* Sachbearbeiter
+* Schläger
+* Student
+* Zürcher
+
+_männlich Nominativ, Akkusativ_
+
+* <<Person>>~regulär~ ~Nominativ~
+* Bauer
+* Pfarrer
+* Arzt
+* Opa
+* Typ
+
+_männlich Dativ_
+
+* <<Person>>~regulär~ ~Nominativ~en
+	`/een$/en/`
+	`/eren$/er/`
+
+_weiblich Nominativ, Dativ, Akkusativ_
+
+* <<Person>>~regulär~in
+	`/ein$/in/`
+	`/mannin$/frau/`
+* Bäuerin
+* Dame
+* Nonne
+* Hausfrau
+* Hebamme
+* Ärztin
+* Krankenschwester
+* Oma
+
+_sächlich Nominativ, Dativ, Akkusativ_
+
+* Mädchen
+* Häschen
+* Mäuschen
+* Kind
+

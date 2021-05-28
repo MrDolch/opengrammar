@@ -1,0 +1,51 @@
+= tun
+
+Jeder tut etwas tun. so ist die Welt.
+
+== tut _ etwas
+
+- arbeitet _
+- beauftragt link:jemand#jemanden[jemanden~singular~ ~akkusativ~] <<etwas _ zu tun>>
+- beisst _ link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
+- ermutigt link:jemand#jemanden[jemanden~singular~ ~akkusativ~] <<etwas _ zu tun>>
+- trinkt _
+- macht _ Hausaufgaben
+- macht _ in die Hosen
+- feiert _ Geburtstag
+
+== etwas _ zu tun
+
+* <<etwas _ tun>>
+    `/([^ ]+)$/ zu $1/`
+    `/\b(zu) (um|durch|ein|auf|hin|her|runter)\B/$2$1/`
+* <<etwas _ tun>>
+    `/([^ ]+)$/ zu $1/`
+    `/\b(zu) (um|durch|ein|auf|hin|her|runter)\B/$2$1/`
+
+== etwas _ tun
+
+* <<tut _ etwas>>
+	`/^([^ ]+)t(.*)$/$2 $1en/`
+	`/een$/en/`
+	`/elen$/eln/`
+        `/eren$/ern/`
+	`/\bissen$/essen/`
+	`/schläfen/schlafen/`
+	`/schlägen/schlagen/`
+	`/siehen$/sehen/`
+	`/sprichen$/sprechen/`
+	`/triffen$/treffen/`
+	`/\b(um|durch|ein|auf|hin|her|runter) ([^ ]+)$/$1$2/`
+	`/fähren$/fahren/`
+
+== tut
+* will
+* kann
+* möchte
+* wollte
+* würde
+* tut
+* soll
+* sollte
+* könnte
+* darf

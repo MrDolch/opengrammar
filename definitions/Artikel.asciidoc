@@ -1,0 +1,86 @@
+== Artikel
+
+_schwach männlich Nominativ_
+
+* ein
+* mein
+* sein
+* dein
+* ihr
+
+_schwach weiblich Nominativ_
+
+* <<Artikel>>~schwach~ ~männlich~ ~Nominativ~e
+
+_schwach sächlich Nominativ_
+
+* <<Artikel>>~schwach~ ~männlich~ ~Nominativ~
+
+_schwach männlich Dativ_
+
+* <<Artikel>>~schwach~ ~männlich~ ~Nominativ~em
+
+_schwach weiblich Dativ_
+
+* <<Artikel>>~schwach~ ~männlich~ ~Nominativ~er
+
+_schwach sächlich Dativ_
+
+* <<Artikel>>~schwach~ ~männlich~ ~Nominativ~em
+
+_schwach männlich Akkusativ_
+
+* <<Artikel>>~schwach~ ~männlich~ ~Nominativ~en
+
+_schwach weiblich Akkusativ_
+
+* <<Artikel>>~schwach~ ~männlich~ ~Nominativ~e
+
+_schwach sächlich Akkusativ_
+
+* <<Artikel>>~schwach~ ~männlich~ ~Nominativ~
+
+_stark männlich Nominativ_
+
+* der
+* dieser
+
+_stark weiblich Nominativ_
+
+* die
+* diese
+
+_stark sächlich Nominativ_
+
+* das
+* dieses
+
+_stark männlich Dativ_
+
+* dem
+* diesem
+
+_stark weiblich Dativ_
+
+* der
+* dieser
+
+_stark sächlich Dativ_
+
+* dem
+* diesem
+
+_stark männlich Akkusativ_
+
+* den
+* diesen
+
+_stark weiblich Akkusativ_
+
+* die
+* diese
+
+_stark sächlich Akkusativ_
+
+* das
+* dieses

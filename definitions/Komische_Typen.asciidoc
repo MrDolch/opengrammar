@@ -1,0 +1,8 @@
+
+_g in weiblich, männlich, sächlich_
+
+_f in Nominativ_
+
+* link:Artikel#Artikel[Artikel~schwach~ ~g~ ~f~] link:Adjektiv#Adjektiv[Adjektiv~stark~ ~g~ ~f~^?^] link:Person#Person[Person~g~ ~f~]
+
+* link:Artikel#Artikel[Artikel~stark~ ~g~ ~f~] link:Adjektiv#Adjektiv[Adjektiv~schwach~ ~g~ ~f~^?^] link:Person#Person[Person~g~ ~f~]

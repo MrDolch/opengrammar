@@ -1,0 +1,15 @@
+== Willkommen zum Backend des Phrasendreschers!
+
+Hier stehen die Definitionen zu den einzelnen Themen.
+
+== Themen
+
+link:Weisheiten[] liefert verschiedene weise Sprüche.
+
+link:Komische_Typen[] kann jegliche Person generieren.
+
+link:Affirmation[] hilft dir, dich anders zu fühlen.
+
+link:Calm_Down[] hilft dir, dich anders zu fühlen.
+
+link:Komplexer_Satz[] lässt dich lachen.

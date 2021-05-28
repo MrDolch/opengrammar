@@ -1,0 +1,17 @@
+* vor Erschöpfung
+* vor Aufregung
+* vor Angst
+* aus Angst
+* vor Freude
+* aus Langeweile
+* aus Liebe
+* aus Mitleid
+* aus Sorge
+* aus Versehen
+* einfach so
+* zur Beruhigung
+
+== Todo
+* , um {etwas zu tun},
+* , damit {jemand} {etwas tut},
+* , weil {jemand} {beschrieben} ist,
