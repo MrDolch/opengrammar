@@ -13,6 +13,36 @@ Jeder tut etwas tun. so ist die Welt.
 - macht _ in die Hosen
 - feiert _ Geburtstag
 
+* beisst ... in {etwas essbares}
+* besorgt ... {etwas kaufbares}
+* bestellt ... {etwas kaufbares}
+* fährt ... {jemanden} um
+* geht mit {jemandem} etwas trinken
+* grüsst ... {jemanden}
+* hustet
+* isst ... {etwas essbares}
+* kauft ... {etwas kaufbares}
+* kauft ... {etwas kaufbares} ein
+* klaut ... {etwas kaufbares}
+* kocht ... {etwas essbares}
+* küsst ... {jemanden}
+* macht ... eine Pause
+* melkt ... {etwas melkbares}
+* nascht ... {etwas essbares}
+* putzt ... {etwas putzbares}
+* schaut ... weg
+* schlägt ... {jemanden}
+* sieht ... {etwas sichtbares}
+* spricht ... {jemanden}
+* streichelt ... {jemanden}
+* trifft ... {jemanden}
+* trinkt
+* trinkt ... {etwas trinkbares}
+* verhaftet ... {jemanden}
+* vernascht ... {etwas essbares}
+* zeigt sich {beschrieben Adverb}
+
+
 == etwas _ zu tun
 
 * <<etwas _ tun>>
@@ -49,3 +79,56 @@ Jeder tut etwas tun. so ist die Welt.
 * sollte
 * könnte
 * darf
+
+// = etwas
+
+== etwas kaufbares
+
+* {etwas trinkbares}
+* {etwas essbares}
+* {etwas melkbares}
+* die {beschriebene?} Zeitung
+//* {Artikel schwach sächlich Akkusativ} {beschriebenes?} Auto
+//* {Artikel stark sächlich Akkusativ} {beschriebene?} Stück
+* {beschriebene?} Blumen
+* {etwas trinkbares} und {etwas essbares}
+
+== etwas putzbares
+
+* die Zähne
+* den Spiegel
+* das Auto
+* den Tisch
+* die Fenster
+
+== etwas essbares
+
+* eine Suppe
+* ein Huhn
+* einen Hamburger
+* Kartoffeln mit Speck
+* ein belegtes Brot
+* einen Maiskolben
+* die Wurst
+* Kuchen
+
+== etwas trinkbares
+
+* Milch
+* Wasser
+* Sirup
+* einen Kaffee mit Milch und Zucker
+* Bier
+* Wein
+* Kaffee
+
+== etwas melkbares
+
+* eine {beschriebene?} Kuh
+* eine {beschriebene?} Ziege
+
+== etwas sichtbares
+
+* {etwas kaufbares}
+* {jemanden}
+
