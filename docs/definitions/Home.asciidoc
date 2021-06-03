@@ -6,9 +6,7 @@ Hier stehen die Definitionen zu den einzelnen Themen.
 
 link:Weisheiten[] liefert verschiedene weise Sprüche.
 
-link:Komische_Typen[] kann jegliche Person generieren.
-
-link:Affirmation[] hilft dir, dich anders zu fühlen.
+link:EinMalEins[] kann mit dir Rechnen üben.
 
 link:Calm_Down[] hilft dir, dich anders zu fühlen.
 
