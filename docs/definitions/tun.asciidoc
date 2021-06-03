@@ -13,34 +13,33 @@ Jeder tut etwas tun. so ist die Welt.
 - macht _ in die Hosen
 - feiert _ Geburtstag
 
-* beisst ... in {etwas essbares}
-* besorgt ... {etwas kaufbares}
-* bestellt ... {etwas kaufbares}
-* fährt ... {jemanden} um
-* geht mit {jemandem} etwas trinken
-* grüsst ... {jemanden}
+* beisst ... in <<etwas essbares>>
+* besorgt ... <<etwas kaufbares>>
+* bestellt ... <<etwas kaufbares>>
+* fährt ... link:jemand#jemanden[jemanden~singular~ ~akkusativ~] um
+* geht mit link:jemand#jemandem[jemandem~singular~ ~dativ~] etwas trinken
+* grüsst ... link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
 * hustet
-* isst ... {etwas essbares}
-* kauft ... {etwas kaufbares}
-* kauft ... {etwas kaufbares} ein
-* klaut ... {etwas kaufbares}
-* kocht ... {etwas essbares}
-* küsst ... {jemanden}
+* isst ... <<etwas essbares>>
+* kauft ... <<etwas kaufbares>>
+* kauft ... <<etwas kaufbares>> ein
+* klaut ... <<etwas kaufbares>>
+* kocht ... <<etwas essbares>>
+* küsst ... link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
 * macht ... eine Pause
-* melkt ... {etwas melkbares}
-* nascht ... {etwas essbares}
-* putzt ... {etwas putzbares}
+* melkt ... <<etwas melkbares>>
+* nascht ... <<etwas essbares>>
+* putzt ... <<etwas putzbares>>
 * schaut ... weg
-* schlägt ... {jemanden}
-* sieht ... {etwas sichtbares}
-* spricht ... {jemanden}
-* streichelt ... {jemanden}
-* trifft ... {jemanden}
+* schlägt ... link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
+* sieht ... <<etwas sichtbares>>
+* spricht ... link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
+* streichelt ... link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
+* trifft ... link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
 * trinkt
-* trinkt ... {etwas trinkbares}
-* verhaftet ... {jemanden}
-* vernascht ... {etwas essbares}
-* zeigt sich {beschrieben Adverb}
+* trinkt ... <<etwas sichtbares>>
+* verhaftet ... link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
+* vernascht ... <<etwas essbares>>
 
 
 == etwas _ zu tun
@@ -84,14 +83,14 @@ Jeder tut etwas tun. so ist die Welt.
 
 == etwas kaufbares
 
-* {etwas trinkbares}
-* {etwas essbares}
-* {etwas melkbares}
+* <<etwas sichtbares>>
+* <<etwas essbares>>
+* <<etwas melkbares>>
 * die {beschriebene?} Zeitung
 //* {Artikel schwach sächlich Akkusativ} {beschriebenes?} Auto
 //* {Artikel stark sächlich Akkusativ} {beschriebene?} Stück
 * {beschriebene?} Blumen
-* {etwas trinkbares} und {etwas essbares}
+* <<etwas sichtbares>> und <<etwas essbares>>
 
 == etwas putzbares
 
@@ -129,6 +128,6 @@ Jeder tut etwas tun. so ist die Welt.
 
 == etwas sichtbares
 
-* {etwas kaufbares}
-* {jemanden}
+* <<etwas kaufbares>>
+* link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
 
