@@ -5,7 +5,7 @@
 - <<Extension CombinedResult>> => First Second
 - <<ExtensionOhneSpace CombinedResult>> => FirstSecond
 - <<Weisheiten#Offene Fragen,Offene Fragen>>
-- link:Weisheiten#Offene%20Fragen[]
+- link:Weisheiten.asciidoc#Offene%20Fragen[]
 - link:#Extension[]
 - link:Adjektiv[Adektiv _schwach weiblich singular akkusativ_]
 

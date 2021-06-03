@@ -5,9 +5,9 @@ Jeder tut etwas tun. so ist die Welt.
 == tut _ etwas
 
 - arbeitet _
-- beauftragt link:jemand#jemanden[jemanden~singular~ ~akkusativ~] <<etwas _ zu tun>>
-- beisst _ link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
-- ermutigt link:jemand#jemanden[jemanden~singular~ ~akkusativ~] <<etwas _ zu tun>>
+- beauftragt link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~] <<etwas _ zu tun>>
+- beisst _ link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~]
+- ermutigt link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~] <<etwas _ zu tun>>
 - trinkt _
 - macht _ Hausaufgaben
 - macht _ in die Hosen
@@ -16,29 +16,29 @@ Jeder tut etwas tun. so ist die Welt.
 * beisst ... in <<etwas essbares>>
 * besorgt ... <<etwas kaufbares>>
 * bestellt ... <<etwas kaufbares>>
-* fährt ... link:jemand#jemanden[jemanden~singular~ ~akkusativ~] um
-* geht mit link:jemand#jemandem[jemandem~singular~ ~dativ~] etwas trinken
-* grüsst ... link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
+* fährt ... link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~] um
+* geht mit link:jemand.asciidoc#jemandem[jemandem~singular~ ~dativ~] etwas trinken
+* grüsst ... link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~]
 * hustet
 * isst ... <<etwas essbares>>
 * kauft ... <<etwas kaufbares>>
 * kauft ... <<etwas kaufbares>> ein
 * klaut ... <<etwas kaufbares>>
 * kocht ... <<etwas essbares>>
-* küsst ... link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
+* küsst ... link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~]
 * macht ... eine Pause
 * melkt ... <<etwas melkbares>>
 * nascht ... <<etwas essbares>>
 * putzt ... <<etwas putzbares>>
 * schaut ... weg
-* schlägt ... link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
+* schlägt ... link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~]
 * sieht ... <<etwas sichtbares>>
-* spricht ... link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
-* streichelt ... link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
-* trifft ... link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
+* spricht ... link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~]
+* streichelt ... link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~]
+* trifft ... link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~]
 * trinkt
 * trinkt ... <<etwas sichtbares>>
-* verhaftet ... link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
+* verhaftet ... link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~]
 * vernascht ... <<etwas essbares>>
 
 
@@ -129,5 +129,5 @@ Jeder tut etwas tun. so ist die Welt.
 == etwas sichtbares
 
 * <<etwas kaufbares>>
-* link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
+* link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~]
 
