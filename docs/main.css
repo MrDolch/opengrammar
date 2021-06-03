@@ -1,0 +1,106 @@
+header, footer, nav {
+  text-align: center;
+}
+header, footer, main, nav li {
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+}
+nav li{
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px;
+  transition: background-color 2s;
+}
+nav li:hover {
+  background-color: orange;
+  transition: background-color 2s;
+}
+nav ul{
+  padding: 0px;
+}
+nav a {
+  display: block;
+}
+main a {
+  text-align: center;
+  display: block;
+  padding: 10px;
+}
+
+h1{
+	color:#0000FF;
+}
+
+h2{
+	color:#FF0000;
+}
+nav{
+    float: left;
+    height: 100%;
+}
+p:first-letter {
+    text-transform: uppercase;
+}
+
+body{
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  grid-template-rows: 150px * 20px;
+  grid-template-areas:
+    "header header"
+    "nav main"
+    "footer footer"
+}
+header{
+  grid-area: header;
+}
+footer{
+  grid-area: footer;
+}
+nav{
+  grid-area: nav;
+}
+main{
+  grid-area: main;
+}
+ul{
+  clear: left;
+  height: 100%;
+}
+li {
+  list-style-type: none;
+}
+main pre{
+  border:none;
+  background: inherit;
+}
+
+tabs > tab {display: none;}
+tabs > input[type=radio] {  display: none;}
+tabs > input[id^="tab"]:checked + label {  background-color: orange;}
+tabs > #tab1:checked ~ #tab1-content {  display: block; }
+tabs > #tab2:checked ~ #tab2-content {  display: block; }
+tabs > #tab3:checked ~ #tab3-content {  display: block; }
+tabs > label {
+  display: block;
+  float:left;
+  width: 33.3%;
+  color: #666;
+  padding: 1% 2%;
+  font-size: 1.5em;
+  cursor: pointer;
+  background-color: #111;
+}
+
+editor {
+  clear: left;
+  display: grid;
+  grid-template-columns: 200px 1fr;
+}
+
+editor textarea{
+  height: 400px;
+}
