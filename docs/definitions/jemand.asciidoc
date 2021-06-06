@@ -13,7 +13,7 @@ _g in weiblich, männlich, sächlich_
 
 _f in Nominativ_
 
-* link:Artikel#Artikel[Artikel~schwach~ ~g~ ~f~] link:Adjektiv#Adjektiv[Adjektiv~stark~ ~g~ ~f~^?^] link:Person#Person[Person~g~ ~f~]
+* link:Artikel.asciidoc#Artikel[Artikel~schwach~ ~g~ ~f~] link:Adjektiv.asciidoc#Adjektiv[Adjektiv~stark~ ~g~ ~f~^?^] link:Person.asciidoc#Person[Person~g~ ~f~]
 
 == jemanden
 * ihn
@@ -24,7 +24,7 @@ _g in weiblich, männlich, sächlich_
 
 _f in Akkusativ_
 
-* link:Artikel#Artikel[Artikel~schwach~ ~g~ ~f~] link:Adjektiv#Adjektiv[Adjektiv~stark~ ~g~ ~f~^?^] link:Person#Person[Person~g~ ~f~]
+* link:Artikel.asciidoc#Artikel[Artikel~schwach~ ~g~ ~f~] link:Adjektiv.asciidoc#Adjektiv[Adjektiv~stark~ ~g~ ~f~^?^] link:Person.asciidoc#Person[Person~g~ ~f~]
 
 == jemandem
 
@@ -37,4 +37,4 @@ _g in weiblich, männlich, sächlich_
 
 _f in Dativ_
 
-* link:Artikel#Artikel[Artikel~schwach~ ~g~ ~f~] link:Adjektiv#Adjektiv[Adjektiv~stark~ ~g~ ~f~^?^] link:Person#Person[Person~g~ ~f~]
+* link:Artikel.asciidoc#Artikel[Artikel~schwach~ ~g~ ~f~] link:Adjektiv.asciidoc#Adjektiv[Adjektiv~stark~ ~g~ ~f~^?^] link:Person.asciidoc#Person[Person~g~ ~f~]

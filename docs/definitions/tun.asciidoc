@@ -5,13 +5,42 @@ Jeder tut etwas tun. so ist die Welt.
 == tut _ etwas
 
 - arbeitet _
-- beauftragt link:jemand#jemanden[jemanden~singular~ ~akkusativ~] <<etwas _ zu tun>>
-- beisst _ link:jemand#jemanden[jemanden~singular~ ~akkusativ~]
-- ermutigt link:jemand#jemanden[jemanden~singular~ ~akkusativ~] <<etwas _ zu tun>>
+- beauftragt link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~] <<etwas _ zu tun>>
+- beisst _ link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~]
+- ermutigt link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~] <<etwas _ zu tun>>
 - trinkt _
 - macht _ Hausaufgaben
 - macht _ in die Hosen
 - feiert _ Geburtstag
+
+* beisst ... in <<etwas essbares>>
+* besorgt ... <<etwas kaufbares>>
+* bestellt ... <<etwas kaufbares>>
+* fährt ... link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~] um
+* geht mit link:jemand.asciidoc#jemandem[jemandem~singular~ ~dativ~] etwas trinken
+* grüsst ... link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~]
+* hustet
+* isst ... <<etwas essbares>>
+* kauft ... <<etwas kaufbares>>
+* kauft ... <<etwas kaufbares>> ein
+* klaut ... <<etwas kaufbares>>
+* kocht ... <<etwas essbares>>
+* küsst ... link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~]
+* macht ... eine Pause
+* melkt ... <<etwas melkbares>>
+* nascht ... <<etwas essbares>>
+* putzt ... <<etwas putzbares>>
+* schaut ... weg
+* schlägt ... link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~]
+* sieht ... <<etwas sichtbares>>
+* spricht ... link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~]
+* streichelt ... link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~]
+* trifft ... link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~]
+* trinkt
+* trinkt ... <<etwas sichtbares>>
+* verhaftet ... link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~]
+* vernascht ... <<etwas essbares>>
+
 
 == etwas _ zu tun
 
@@ -49,3 +78,56 @@ Jeder tut etwas tun. so ist die Welt.
 * sollte
 * könnte
 * darf
+
+// = etwas
+
+== etwas kaufbares
+
+* <<etwas sichtbares>>
+* <<etwas essbares>>
+* <<etwas melkbares>>
+* die {beschriebene?} Zeitung
+//* {Artikel schwach sächlich Akkusativ} {beschriebenes?} Auto
+//* {Artikel stark sächlich Akkusativ} {beschriebene?} Stück
+* {beschriebene?} Blumen
+* <<etwas sichtbares>> und <<etwas essbares>>
+
+== etwas putzbares
+
+* die Zähne
+* den Spiegel
+* das Auto
+* den Tisch
+* die Fenster
+
+== etwas essbares
+
+* eine Suppe
+* ein Huhn
+* einen Hamburger
+* Kartoffeln mit Speck
+* ein belegtes Brot
+* einen Maiskolben
+* die Wurst
+* Kuchen
+
+== etwas trinkbares
+
+* Milch
+* Wasser
+* Sirup
+* einen Kaffee mit Milch und Zucker
+* Bier
+* Wein
+* Kaffee
+
+== etwas melkbares
+
+* eine {beschriebene?} Kuh
+* eine {beschriebene?} Ziege
+
+== etwas sichtbares
+
+* <<etwas kaufbares>>
+* link:jemand.asciidoc#jemanden[jemanden~singular~ ~akkusativ~]
+
