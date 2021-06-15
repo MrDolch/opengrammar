@@ -1,4 +1,4 @@
-===== Namensgenerator =====
+===== Namengenerator =====
 
 * {Junge} {Nachname}
 * {Mädchen} {Nachname}
