@@ -4,6 +4,8 @@ Hier stehen die Definitionen zu den einzelnen Themen.
 
 == Themen
 
+link:Namensgenerator[] erzeugt Testdaten aus den häufigsten Vor- und Nachnamen.
+
 link:Weisheiten[] liefert verschiedene weise Sprüche.
 
 link:EinMalEins[] kann mit dir Rechnen üben.
