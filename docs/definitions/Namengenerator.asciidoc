@@ -1,9 +1,9 @@
-===== Namengenerator =====
+Generiert Testdaten aus den häufigsten Namen.
 
 * {Junge} {Nachname}
 * {Mädchen} {Nachname}
 
-=== Junge ===
+## Junge
 
 * {Junge} {Junge}
 * Aaron 
@@ -209,7 +209,7 @@
 * Yanis 
 * Yannick 
 
-=== Mädchen ===
+## Mädchen
 
 * {Mädchen} {Mädchen}
 * Adèle 
@@ -417,7 +417,7 @@
 * Zoe 
 * Zoé 
 
-=== Nachname ===
+## Nachname
 
 * {Nachname}-{Nachname}
 * Albrecht
