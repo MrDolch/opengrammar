@@ -3,7 +3,7 @@ Generiert Testdaten aus den häufigsten Namen.
 * {Junge} {Nachname}
 * {Mädchen} {Nachname}
 
-## Junge
+== Junge
 
 * {Junge} {Junge}
 * Aaron 
@@ -209,7 +209,7 @@ Generiert Testdaten aus den häufigsten Namen.
 * Yanis 
 * Yannick 
 
-## Mädchen
+== Mädchen
 
 * {Mädchen} {Mädchen}
 * Adèle 
@@ -417,7 +417,7 @@ Generiert Testdaten aus den häufigsten Namen.
 * Zoe 
 * Zoé 
 
-## Nachname
+== Nachname
 
 * {Nachname}-{Nachname}
 * Albrecht
