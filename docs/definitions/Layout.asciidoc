@@ -1,0 +1,69 @@
+
+* <style>{Font-Import} {Colors} {Style}</style>
+	* ''/&#123;/{/''
+	* ''/&#125;/}/''
+	* ''/&#123;/{/''
+	* ''/&#125;/}/''
+	* ''/&#123;/{/''
+	* ''/&#125;/}/''
+	* ''/&#123;/{/''
+	* ''/&#125;/}/''
+	* ''/&#123;/{/''
+	* ''/&#125;/}/''
+	* ''/&#123;/{/''
+	* ''/&#125;/}/''
+
+== Font-Import
+
+* @import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2&family=Mate+SC&family=Mukta&family=Roboto:wght@100&family=Source+Code+Pro&family=Viaoda+Libre&display=swap');
+
+== Fonts
+
+* Roboto
+* "Viaoda Libre"
+* "Baloo Tammudu 2"
+* "Mate SC"
+* "Source Code Pro"
+* Mukta
+
+== Colors
+
+* :root &#123;  --h: {Hue}; --hs: var(--h) 30%;  --c1: hsl(var(--hs) 30%);  --c2: hsl(var(--hs) 90%);  --c3: hsl(var(--hs) 60%); --hs2:calc(var(--h) + 200) 30%; --ca: hsl(var(--hs2) 60%);&#125; 
+
+== Hue
+
+* 0
+* 30
+* 60
+* 90
+* 120
+* 150
+* 180
+* 210
+* 240
+* 270
+* 300
+* 330
+
+== Style
+
+=== Version 1
+
+body &#123;
+	font-family: {Fonts};
+	background-color: var(--c1);
+	color: var(--c2);
+&#125;
+h1 &#123;
+	color: var(--c3);
+&#125;
+h2 &#123;
+	color: var(--c4);
+&#125;
+header, footer  &#123;
+	background-image: url('https://unsplash.it/800/200');
+	background-size: cover; 
+&#125;
+a, a:focus &#123;
+	color: var(--ca);
+&#125;
