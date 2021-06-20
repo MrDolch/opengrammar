@@ -13,3 +13,6 @@ link:EinMalEins[] kann mit dir Rechnen üben.
 link:Calm_Down[] hilft dir, dich anders zu fühlen.
 
 link:Komplexer_Satz[] lässt dich lachen.
+
+link:Layout[] probiert einige Designkombinationen aus.
+
